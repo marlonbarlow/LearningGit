@@ -8,3 +8,27 @@ git config user.name
 git help git
 git help -a
 git help -g
+
+ echo "# Matts Git PluralSightCourse" >> readme.md
+git add .
+git commit -m "first commit"
+ git remote add origin https://github.com/marlonbarlow/LearningGit.git
+
+git status
+touch vendors.txt - adds new file
+clear
+
+git add vendors.txt
+
+git status -s
+git status --short
+
+git diff
+git diff --staged      -0 this is diff between staged and commited
+
+
+git diff --staged --no-renames
+
+
+git diff    -0 this is diff between working directory and staged
+
