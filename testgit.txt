@@ -32,3 +32,7 @@ git diff --staged --no-renames
 
 git diff    -0 this is diff between working directory and staged
 
+
+git commit -a -m "add new vendor"        -a skips having to add to staging area and comits all fires being tracked.
+
+
