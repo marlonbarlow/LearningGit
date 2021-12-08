@@ -1,0 +1,10 @@
+This is the first draft of matts git test document
+
+git --version
+git config --list
+git config --global user.name ""
+git config --global user.email ""
+git config user.name
+git help git
+git help -a
+git help -g
