@@ -83,6 +83,9 @@ git reset --mixed   - back to working
 git reset --hard   - get rid of
 
 
+git - rest --mixed 0524344
+
+
 
 
 
